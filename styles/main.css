@@ -219,6 +219,12 @@ body {
           justify-content: center;
 }
 
+.skill p {
+  font-size: 1.5rem;
+  padding: 1rem;
+  color: #1D1D1D;
+}
+
 .skill:nth-child(1) {
   color: #DE4B25;
 }
@@ -236,7 +242,7 @@ body {
 }
 
 .skill:nth-child(5) {
-  color: #2988AC;
+  color: #ED1C24;
 }
 
 .projects {
